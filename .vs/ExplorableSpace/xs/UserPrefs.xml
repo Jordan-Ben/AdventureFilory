@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{C72DB518-F3A5-436B-8EE3-AAD9C2EB3B82}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExplorableSpace PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Week3/Week3/Item.cs">
+    <Files>
+      <File FileName="ExplorableSpace/Program.cs" Line="9" Column="1" />
+      <File FileName="ExplorableSpace/Person.cs" Line="41" Column="1" />
+      <File FileName="ExplorableSpace/World.cs" Line="14" Column="10" />
+      <File FileName="ExplorableSpace/Location.cs" Line="6" Column="2" />
+      <File FileName="ExplorableSpace/Utitility.cs" Line="9" Column="52" />
+      <File FileName="../Week3/Week3/Item.cs" Line="5" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
