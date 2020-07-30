@@ -8,7 +8,12 @@ namespace ExplorableSpace
     {
         public static Random random = new Random();
 
-        public static int GetRandomNumber(int min,int max)
+        public static int GetRandomNumber(int max)
+        {
+            return random.Next(max);
+        }
+
+        public static int GetRandomNumber(int min, int max)
         {
             return random.Next(min, max);
         }

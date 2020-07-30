@@ -16,3 +16,9 @@
 /Users/jordanbenson/Projects/AdventureFilory/ExplorableSpace/obj/Debug/netcoreapp3.1/ExplorableSpace.csproj.CoreCompileInputs.cache
 /Users/jordanbenson/Projects/AdventureFilory/ExplorableSpace/obj/Debug/netcoreapp3.1/ExplorableSpace.dll
 /Users/jordanbenson/Projects/AdventureFilory/ExplorableSpace/obj/Debug/netcoreapp3.1/ExplorableSpace.pdb
+/Users/jordanbenson/Projects/AdventureFilory/ExplorableSpace/bin/Debug/netcoreapp3.1/ExplorableSpace.deps.json
+/Users/jordanbenson/Projects/AdventureFilory/ExplorableSpace/bin/Debug/netcoreapp3.1/ExplorableSpace.runtimeconfig.json
+/Users/jordanbenson/Projects/AdventureFilory/ExplorableSpace/bin/Debug/netcoreapp3.1/ExplorableSpace.runtimeconfig.dev.json
+/Users/jordanbenson/Projects/AdventureFilory/ExplorableSpace/bin/Debug/netcoreapp3.1/ExplorableSpace.dll
+/Users/jordanbenson/Projects/AdventureFilory/ExplorableSpace/bin/Debug/netcoreapp3.1/ExplorableSpace.pdb
+/Users/jordanbenson/Projects/AdventureFilory/ExplorableSpace/obj/Debug/netcoreapp3.1/ExplorableSpace.genruntimeconfig.cache

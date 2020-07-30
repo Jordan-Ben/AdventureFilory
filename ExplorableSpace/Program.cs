@@ -16,7 +16,7 @@ namespace ExplorableSpace
     {
         static void Main(string[] args)
         {
-
+            GameOpens.GameOpen();
             new World();
 
 

@@ -1,14 +1,30 @@
 ﻿<Properties StartupConfiguration="{C72DB518-F3A5-436B-8EE3-AAD9C2EB3B82}|Default">
   <MonoDevelop.Ide.ItemProperties.ExplorableSpace PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../Week3/Week3/Item.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExplorableSpace/World.cs">
     <Files>
-      <File FileName="ExplorableSpace/Program.cs" Line="9" Column="1" />
-      <File FileName="ExplorableSpace/Person.cs" Line="41" Column="1" />
-      <File FileName="ExplorableSpace/World.cs" Line="14" Column="10" />
-      <File FileName="ExplorableSpace/Location.cs" Line="6" Column="2" />
-      <File FileName="ExplorableSpace/Utitility.cs" Line="9" Column="52" />
-      <File FileName="../Week3/Week3/Item.cs" Line="5" Column="11" />
+      <File FileName="ExplorableSpace/Program.cs" Line="26" Column="1" />
+      <File FileName="ExplorableSpace/Person.cs" Line="31" Column="1" />
+      <File FileName="ExplorableSpace/World.cs" Line="221" Column="43" />
+      <File FileName="ExplorableSpace/Location.cs" Line="13" Column="1" />
+      <File FileName="ExplorableSpace/Utitility.cs" />
+      <File FileName="../Week3/Week3/Item.cs" />
+      <File FileName="ExplorableSpace/GameOpen.cs" Line="16" Column="1" />
+      <File FileName="ExplorableSpace/GameSummary.txt" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExplorableSpace" expanded="True">
+            <Node name="ExplorableSpace" expanded="True">
+              <Node name="World.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
